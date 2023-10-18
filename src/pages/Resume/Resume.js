@@ -44,7 +44,7 @@ const Resume = () => {
             {/*Working and Volunteering Experiences  */}
             <Grid item sm={12} md={6}>
               <CostomTimeline
-                title={"Work and Volunteering"}
+                title={"Work"}
                 icon={<WorkIcon />}
               >
                 {resumeData.Experiences.map((Experiences) => (
