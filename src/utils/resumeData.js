@@ -14,29 +14,19 @@ export default {
   name: "Fernan Cetina",
   title: "Undergraduate",
   birthday: "16th November 2001",
-  email: "nikilafern99@gmail.com",
+  email: "fecefarique@gmail.com",
   address: "Mérida, Yucatán, México",
   phone: "+529991222819",
 
   socials: {
-    Facebook: {
-      link: "https://www.facebook.com/nikila.gimhan/",
-      text: "My Facebook",
-      icon: <Facebook />,
-    },
-    Twitter: {
-      link: "https://twitter.com/NikilaFernando",
-      text: "My Twitter",
-      icon: <TwitterIcon />,
-    },
     LinkedIn: {
-      link: "www.linkedin.com/in/fernan-cetina-564472234",
-      text: "My LinkedIN",
+      link: "https://www.linkedin.com/in/fernan-cetina-564472234/",
+      text: "My LinkedIn",
       icon: <LinkedInIcon />,
     },
     GitHub: {
       link:
-        "https://github.com/FernanCetinaE?tab=repositories",
+        "https://github.com/FernanCetinaE",
       text: "My Github",
       icon: <GitHubIcon />,
     },
@@ -53,7 +43,7 @@ export default {
         "Working as a developer to build fast and reliable web applications using React, Django, and Postgresql.",
     },
     {
-      title: "Brand Ambassador | Dealer Geek",
+      title: "Product Owner & Developer | Dealer Geek",
       date: " May 2022  - Oct 2023",
       description:
         "Implemented SCRUM framework, used JIRA for Daily Standups and documentation, increased accountability and traceability for User Stories. As a developer I worked with recent frameworks and technologies to develop several applications for car dealerships",
